@@ -8,6 +8,7 @@ You can fork the repository and check the items once you have completed them. Yo
 
 Customise this list to your needs.
 
+### Stage #1 - preparation
 - [ ] Choose a name (choose a short, brandable name. If you get stuck with the name, use the following resources to generate one, along with the logo: https://namelix.com/, https://businessnamegenerator.com/)
 - [ ] Choose a logo for the company, you could design one yourself by finding the icon at https://www.flaticon.com/ or ordering one at https://www.fiverr.com/ (the prices are quite low, about 5$ for a decent logo)
 - [ ] Register a domain. I use https://namecheap.com for domain management
@@ -17,3 +18,9 @@ Customise this list to your needs.
 - [ ] Setup a github repository for your projects. I personally use gitlab for multi-repository projects, because they offer free-to-use groups, where I can setup my frontend, backend etc. Additionally, I use docker for all my projects, so gitlab automatically detects Dockerfile and builds my project on each commit. Container registry from Gitlab is really simple to use. 
 - [ ] Setup a task board. There are dozens of task boards, I prefer to use Trello for all my projects, they offer lots of templates to get started with. 
 - [ ] Setup a communication channel between your team-members. There are lots of options, but obvious one is Slack. These days I use Telegram, simply because they are less restrictive than Slack (like free calls and unlimited history).
+
+### Stage 2 - Development
+- [ ] If your application requires a good UI, spend time and find good CSS framework, I try to use multiple frameworks to experiment with designs. Some of my favourites: Material UI, Semantic UI, Ant.Design, UIKit
+- [ ] Try to use latest frontend technologies - SPA, PWA etc. My personally favourite frontend framework is Vue.JS. It is really simple to get started with than Angular or React.
+- [ ] Choose a backend stack. For prototyping stage I would recommend Python with Django or NodeJs with Express. If you want to both iterate fast and have your tecnhical debt to minimum, I would recommend using GoLang, as it offers both development speed and performance. However, it will be harder to get started with if you are looking for a fast solution.
+- [ ] Use Postman to document your API, it will be both useful for frontend development and will setup a future foundation.
