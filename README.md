@@ -2,7 +2,7 @@
 I got myself caught in the cycle of making a new application and doing all the same steps over and over again, like opening a domain, setting up a git, coming soon page etc. So I decided to make a document to collect all the steps I usually go through in order to setup a new startup.
 
 ## How to use
-You can clone the repository and check the items once you have completed them. You can customise the document to your particular needs. I tried to put everything into logical order.
+You can fork the repository and check the items once you have completed them. You can customise the document to your particular needs. I tried to put everything into logical order.
 
 ## New startup check-list
 
