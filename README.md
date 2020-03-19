@@ -24,3 +24,6 @@ Customise this list to your needs.
 - [ ] Try to use latest frontend technologies - SPA, PWA etc. My personally favourite frontend framework is Vue.JS. It is really simple to get started with than Angular or React.
 - [ ] Choose a backend stack. For prototyping stage I would recommend Python with Django or NodeJs with Express. If you want to both iterate fast and have your tecnhical debt to minimum, I would recommend using GoLang, as it offers both development speed and performance. However, it will be harder to get started with if you are looking for a fast solution.
 - [ ] Use Postman to document your API, it will be both useful for frontend development and will setup a future foundation.
+
+### Stage 3 - Launch
+In progress
